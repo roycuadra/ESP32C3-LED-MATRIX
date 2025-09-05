@@ -21,10 +21,6 @@ A **captive portal-style web interface** is hosted on the ESP32, allowing users 
 - Jumper wires / breadboard
 
 ---
-## 📐 Schematic Diagram
-Below is the wiring schematic for the ESP32-C3 with MAX7219 LED Matrix:
-
-![Schematic Diagram](schematic.png)
 
 ## 🔌 Wiring
 | MAX7219 Pin | ESP32-C3 Pin |
